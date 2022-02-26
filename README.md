@@ -35,7 +35,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-The main challenge was properly formatting the tweets so that each element contained in the tweet did not overlap. Other challenges that were faced were mainly issues with the dependencies not being up-to-date to the point that it conflicted with the running of the app. 
+The main challenge was properly formatting the tweets so that each element contained in the tweet did not overlap. Other challenges that were faced were mainly issues with the dependencies not being up-to-date to the point that it conflicted with the running of the app. Another challenge was the addition of a timestamp.
+Due to the time constraint, it was no completed in time. However, it will be completed by Part 2 of this project. 
 
 ## Open-source libraries used
 
