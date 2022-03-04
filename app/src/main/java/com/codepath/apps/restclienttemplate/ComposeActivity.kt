@@ -40,7 +40,7 @@ class ComposeActivity : AppCompatActivity() {
 
             override fun afterTextChanged(s: Editable) {
                 // Fires right after the text has changed
-                charCount.setText(etCompose.length().toString())
+                charCount.setText((280 - etCompose.length()).toString())
             }
         })
 
