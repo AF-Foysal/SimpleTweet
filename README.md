@@ -39,6 +39,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Character counter was set to the size of the tweet as opposed to the amount of characters left. 
+
 ---
 
 Time spent: **5** hours spent in total
