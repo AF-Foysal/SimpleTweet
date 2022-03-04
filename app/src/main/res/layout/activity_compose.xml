@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:gravity="start|top"
-        android:hint="What'happening?"
+        android:hint="What's happening?"
         android:inputType="textMultiLine"
         android:layout_margin="10dp"
         android:minLines="5"
