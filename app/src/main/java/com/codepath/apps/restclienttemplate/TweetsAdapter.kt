@@ -7,6 +7,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
+//import com.codepath.apps.restclienttemplate.R.id.tvRelativeTime
 import com.codepath.apps.restclienttemplate.models.Tweet
 import java.util.zip.Inflater
 
@@ -16,6 +17,7 @@ class TweetsAdapter(val tweets: ArrayList<Tweet>): RecyclerView.Adapter<TweetsAd
         val tvUsername = itemView.findViewById<TextView>(R.id.tvUsername)
         val tvTweetBody = itemView.findViewById<TextView>(R.id.tvTweetBody)
     }
+
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): TweetsAdapter.ViewHolder {
         val context = parent.context
